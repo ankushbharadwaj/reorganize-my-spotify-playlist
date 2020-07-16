@@ -4,4 +4,4 @@ In this project, I use data science to break a large Spotify playlist into small
 
 Check out this [link](https://github.com/ankushbharadwaj/reorganize-my-spotify-playlist/blob/master/reorder%20my%20spotify%20playlist.ipynb) for the full Jupyter Notebook used for this project. 
 
-Medium article to come soon!
+Medium article linked [here](https://towardsdatascience.com/organizing-my-spotify-playlists-with-data-science-9a528110319)!
